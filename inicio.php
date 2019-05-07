@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
 
 	<head>
@@ -15,30 +14,12 @@
 
 
 	<body>
-
 			<div id="navigation" class="navigation">
 				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="portfolio.html">Portfólio</a></li>
-					<li><a href="curriculo.html">Currículo</a></li>
-					<li><a href="contato.html">Contato</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="portfolio.php">Portfólio</a></li>
+					<li><a href="curriculo.php">Currículo</a></li>
+					<li><a href="contato.php">Contato</a></li>
 					<li id="treslinhas-icon" class="treslinhas-icon" onclick="openNav()">&#9776;</li>
 				</ul>
 			</div>
-
-			<div class="capa">
-				<div class="profile-pic">
-					<img src="img/foto_hantonny.png" alt="Foto de Hantonny Korrea">
-				</div>
-				<div class="profile-title">
-					<h1>Hantonny <span>Korrea</span></h1>
-					<h2>Web Design - Programação - Desenvolvimento</h2>
-				</div>
-			</div>
-
-
-		
-
-	</body>
-
-</html>

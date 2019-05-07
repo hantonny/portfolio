@@ -1,35 +1,10 @@
-<!DOCTYPE html>
-
-<html>
-
-	<head>
-		<title>Currículo - Hantonny Korrea</title>
-
-		<meta charset="utf-8">
-		<link rel="stylesheet" href="css/styles.css">
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:100,400" rel="stylesheet">
-		<script type="text/javascript" src="js/scritps.js"></script>
-		<meta name="viewport" content="width=device-width, inital-scale=1.0">
-		<link rel="icon" type="image/gif" href="img/h-icon.png" sizes="16x16">
-	</head>
-
-
-	<body>
-			<div id="navigation" class="navigation">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="portfolio.html">Portfólio</a></li>
-					<li><a href="curriculo.html">Currículo</a></li>
-					<li><a href="contato.html">Contato</a></li>
-					<li id="treslinhas-icon" class="treslinhas-icon" onclick="openNav()">&#9776;</li>
-				</ul>
-			</div>
+<?php include 'inicio.php' ?>
 
 
 			<div class="main">
 								
 				<ul class="caminho">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li>></li>
 					<li>Currículo</li>
 				</ul>
@@ -108,7 +83,7 @@
 							<p>(67) 99172-4475</p>
 
 
-				<a class="back-link" href="index.html">&larr; Voltar ao início<a>
+				<a class="back-link" href="index.php">&larr; Voltar ao início<a>
 
 
 			</div>
